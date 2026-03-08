@@ -93,7 +93,8 @@ This container runs **only once during startup**.
   │   └── Dockerfile
   │
   ├── server/
-  │   └── Dockerfile
+  │   ├── Dockerfile
+  │   └── requirements.txt
   │
   ├── persistence/
   │   └── db/
